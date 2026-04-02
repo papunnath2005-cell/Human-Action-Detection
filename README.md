@@ -49,6 +49,11 @@ The dataset used is the **mHealth (Mobile Health) dataset**, which contains body
 | 8 | Knee bending |
 
 ---
+### Output
+<img width="727" height="789" alt="Screenshot 2026-04-02 102016" src="https://github.com/user-attachments/assets/c6fdc9b4-ab9b-4964-bbc1-3ed18d4a1626" />
+<img width="727" height="777" alt="Screenshot 2026-04-02 102028" src="https://github.com/user-attachments/assets/d6829da3-3f01-4b1f-9474-7a8bf4fbabc7" />
+<img width="747" height="381" alt="Screenshot 2026-04-02 102044" src="https://github.com/user-attachments/assets/a581e20c-76ea-489d-8f19-1625fed65a12" />
+<img width="715" height="771" alt="Screenshot 2026-04-02 102006" src="https://github.com/user-attachments/assets/3ddbc6c9-82c8-40d2-87e8-3750d7e1f5a4" />
 
 ## ⚙️ Installation
 
